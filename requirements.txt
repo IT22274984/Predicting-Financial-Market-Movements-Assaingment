@@ -1,0 +1,6 @@
+torch(pytorch)  # Replace <version> with the version you're using
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
